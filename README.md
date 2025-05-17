@@ -30,5 +30,3 @@ Check out the live app here: [AI Story Generator](https://ai-story-generator-fro
 git clone https://github.com/yourusername/AI-Story-Generator-from-Images.git
 cd AI-Story-Generator-from-Images
 pip install -r requirements.txt
-## Live Demo 🚀
-Check out the live app here: [AI Story Generator](https://ai-story-generator-from-images-vymvqjbk7extcysfn7nrvu.streamlit.app/)
