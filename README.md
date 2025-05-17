@@ -21,6 +21,8 @@ Transform images into captivating stories using Google's Gemini AI. This applica
 ### Prerequisites
 - Python 3.10+
 - [Google API Key](https://makersuite.google.com/app/apikey)
+- ## Live Demo 🚀
+Check out the live app here: [AI Story Generator](https://ai-story-generator-from-images-vymvqjbk7extcysfn7nrvu.streamlit.app/)
 - [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-story-generator-from-images-vymvqjbk7extcysfn7nrvu.streamlit.app/)
 
 ### Installation
